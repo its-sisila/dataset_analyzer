@@ -141,7 +141,8 @@ ehthumbs.db
 
 # Dataset files (add specific patterns as needed)
 *.csv
-*.json
+data/*.json
+datasets/*.json
 *.xlsx
 *.xls
 data/
