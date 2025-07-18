@@ -30,8 +30,8 @@ A React-based web application for visualizing and analyzing datasets with intera
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd Dataset_visualization
+   git clone https://github.com/its-sisila/dataset_analyzer.git
+   cd dataset_analyzer
    ```
 
 2. Install dependencies:
